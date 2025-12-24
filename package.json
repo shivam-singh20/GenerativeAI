@@ -1,0 +1,23 @@
+{
+  "name": "generative-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-singh20/GenerativeAI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-singh20/GenerativeAI/issues"
+  },
+  "homepage": "https://github.com/shivam-singh20/GenerativeAI#readme",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.34.0"
+  }
+}
